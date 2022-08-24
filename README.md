@@ -20,7 +20,7 @@ This exam is intended to assess technical skills relevant to the employment func
 ## Section 1. Setting up a cloud solution environment
 
 ### 1.1 Setting up cloud projects and accounts. Activities include:
-- [Creating a resource hierarchy](https://github.com/netdevmike/NetDevMike-GCP-Cloud-Engineer-YouTube-Study-Tools/blob/main/Section_1_-_Setting_up_a_cloud_solution%20environment/1.1a.md)
+- [Creating a resource hierarchy](https://github.com/netdevmike/NetDevMike-GCP-Cloud-Engineer-YouTube-Study-Tools/tree/main/Section_1_-_Setting_up_a_cloud_solution%20environment) - [KeyNote](https://github.com/netdevmike/NetDevMike-GCP-Cloud-Engineer-YouTube-Study-Tools/blob/main/Section_1_-_Setting_up_a_cloud_solution%20environment/1.1%20-%20Setting%20up%20cloud%20projects%20and%20accounts/1.1%20-%20Setting%20up%20cloud%20projects%20and%20accounts.pdf)
 - Applying organizational policies to the resource hierarchy
 - Granting members IAM roles within a project
 - Managing users and groups in Cloud Identity (manually and automated)
