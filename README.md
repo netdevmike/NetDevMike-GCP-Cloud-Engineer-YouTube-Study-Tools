@@ -17,9 +17,9 @@ An Associate Cloud Engineer deploys and secures applications and infrastructure,
 Who is eligible to take the Google Associate Cloud Engineer Exam?
 This exam is intended to assess technical skills relevant to the employment function. The Google Associate Cloud Engineer exam is designed to examine candidates’ ability to set up a cloud solution environment, plan and create a cloud solution, deploy and implement a cloud solution, assure effective cloud solution operation, and configure access and security.
 
-##Section 1. Setting up a cloud solution environment
+## Section 1. Setting up a cloud solution environment
 
-###1.1 Setting up cloud projects and accounts. Activities include:
+### 1.1 Setting up cloud projects and accounts. Activities include:
     a. [Creating a resource hierarchy](Section_1_-_Setting_up_a_cloud_solution/1.1a.md)
     b. Applying organizational policies to the resource hierarchy
     c. Granting members IAM roles within a project
