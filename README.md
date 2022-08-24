@@ -11,8 +11,8 @@ Certification exam guide
 An Associate Cloud Engineer deploys and secures applications and infrastructure, monitors operations of multiple projects, and maintains enterprise solutions to ensure that they meet target performance metrics. This individual has experience working with public clouds and on-premises solutions. They are able to use the Google Cloud console and the command-line interface to perform common platform-based tasks to maintain and scale one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.
 
 <p align="center">
-  <img src="http://some_place.com/image.png" />
-</p>(https://passyourcert.net/wp-content/uploads/2021/12/badge-gcp-associate-cloud-engineer.png)
+  <img src="https://github.com/netdevmike/NetDevMike-GCP-Cloud-Engineer-YouTube-Study-Tools/blob/main/badge-gcp-associate-cloud-engineer.png?raw=true" />
+</p>
 
 Who is eligible to take the Google Associate Cloud Engineer Exam?
 This exam is intended to assess technical skills relevant to the employment function. The Google Associate Cloud Engineer exam is designed to examine candidates’ ability to set up a cloud solution environment, plan and create a cloud solution, deploy and implement a cloud solution, assure effective cloud solution operation, and configure access and security.
