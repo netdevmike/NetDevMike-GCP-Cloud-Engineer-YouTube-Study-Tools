@@ -5,7 +5,7 @@
 ## Section 1. Setting up a cloud solution environment
 
 ### 1.1 Setting up cloud projects and accounts. Activities include:
-    a. Creating a resource hierarchy
+- Creating a resource hierarchy
 
 ### Relevant Google Cloud White Pages
 - [Google Cloud Overview](https://cloud.google.com/docs/overview/)

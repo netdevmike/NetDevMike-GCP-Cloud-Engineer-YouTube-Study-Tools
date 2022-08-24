@@ -1,6 +1,6 @@
 # NetDevMike GCP Cloud Engineer YouTube Study Tools
  
-# Welcome to the unofficial study guide for Googles "Associate Cloud Engineer" exam - By NetDevMike
+# Welcome to the unofficial study guide for Googles "Associate Cloud Engineer" exam
 
 :star: Star this project on GitHub — It helps!!
 
