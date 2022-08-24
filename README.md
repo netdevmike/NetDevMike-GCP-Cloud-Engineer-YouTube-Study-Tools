@@ -4,7 +4,7 @@
 
 :star: Star this project on GitHub — It helps!!
 
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/NetDevMike/NetDevMike-GCP-Cloud-Engineer-YouTube-Study-Tools/issues)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/NetDevMike/NetDevMike-GCP-Cloud-Engineer-YouTube-Study-Tools/issues)]
 
 Associate Cloud Engineer
 Certification exam guide
@@ -20,7 +20,7 @@ This exam is intended to assess technical skills relevant to the employment func
 ## Section 1. Setting up a cloud solution environment
 
 ### 1.1 Setting up cloud projects and accounts. Activities include:
-- [Creating a resource hierarchy](Section_1_-_Setting_up_a_cloud_solution/1.1a.md)
+- <a href="Section_1_-_Setting_up_a_cloud_solution/1.1a.md" target="_blank">Creating a resource hierarchy</a>
 - Applying organizational policies to the resource hierarchy
 - Granting members IAM roles within a project
 - Managing users and groups in Cloud Identity (manually and automated)
