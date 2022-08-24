@@ -4,7 +4,7 @@
 
 :star: Star this project on GitHub — It helps!!
 
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/seanjgildea/CoreSpring5CertificationGuide/issues)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/NetDevMike/NetDevMike-GCP-Cloud-Engineer-YouTube-Study-Tools/issues)
 
 Associate Cloud Engineer
 Certification exam guide
